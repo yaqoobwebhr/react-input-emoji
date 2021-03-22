@@ -65,6 +65,6 @@
     "dist"
   ],
   "dependencies": {
-    "emoji-mart": "2.11.1"
+    "emoji-mart": "2.10.0"
   }
 }
