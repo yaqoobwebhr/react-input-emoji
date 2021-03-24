@@ -106,7 +106,6 @@
 }
 
 .react-input-emoji--button__show svg {
-  fill: #2196F3;
 }
 
 .react-emoji {
@@ -131,7 +130,7 @@
   bottom: 0;
   left: 0;
   height: 0;
-  width: 338px;
+  width: 100%;
   overflow: hidden;
   z-index: 10;
 }
